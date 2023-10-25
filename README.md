@@ -6,11 +6,6 @@ Transvertum has been translating for over 12 years, and our priorities have rema
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-
-
-
-![Preview](https://github.com/JumpDigitalStudio/JumpDigitalStudio/blob/master/repo-previews/transvertum.png)
-
 ## Used by
 
 This project is used by the following companies:
